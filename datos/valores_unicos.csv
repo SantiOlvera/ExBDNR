@@ -1,0 +1,612 @@
+Id,Label
+Brynden-Tully,Brynden Tully
+Cersei-Lannister,Cersei Lannister
+Gyles-Rosby,Gyles Rosby
+Jaime-Lannister,Jaime Lannister
+Jalabhar-Xho,Jalabhar Xho
+Joffrey-Baratheon,Joffrey Baratheon
+Kevan-Lannister,Kevan Lannister
+Lyle-Crakehall,Lyle Crakehall
+Oberyn-Martell,Oberyn Martell
+Tyrion-Lannister,Tyrion Lannister
+Tywin-Lannister,Tywin Lannister
+Varys,Varys
+Catelyn-Stark,Catelyn Stark
+Robb-Stark,Robb Stark
+Stevron-Frey,Stevron Frey
+Walder-Frey,Walder Frey
+Daenerys-Targaryen,Daenerys Targaryen
+Eddard-Stark,Eddard Stark
+Harren-Hoare,Harren Hoare
+Nan,Nan
+Rhaenys-Targaryen,Rhaenys Targaryen
+Stannis-Baratheon,Stannis Baratheon
+Torrhen-Stark,Torrhen Stark
+Visenya-Targaryen,Visenya Targaryen
+Elia-Martell,Elia Martell
+Franklyn-Flowers,Franklyn Flowers
+Haldon,Haldon
+Harry-Strickland,Harry Strickland
+Jon-Connington,Jon Connington
+Lemore,Lemore
+Rhaegar-Targaryen,Rhaegar Targaryen
+Rhaenys-Targaryen-(daughter-of-Rhaegar),Rhaenys Targaryen (daughter of Rhaegar)
+Rolly-Duckfield,Rolly Duckfield
+Viserys-Targaryen,Viserys Targaryen
+Yandry,Yandry
+Ysilla,Ysilla
+Aemon-Targaryen-(Maester-Aemon),Aemon Targaryen (Maester Aemon)
+Alleras,Alleras
+Alliser-Thorne,Alliser Thorne
+Bowen-Marsh,Bowen Marsh
+Chett,Chett
+Clydas,Clydas
+Cotter-Pyke,Cotter Pyke
+Daeron-II-Targaryen,Daeron II Targaryen
+Dareon,Dareon
+Denys-Mallister,Denys Mallister
+Donal-Noye,Donal Noye
+Eddison-Tollett,Eddison Tollett
+Gilly,Gilly
+Grenn,Grenn
+Hobb,Hobb
+Janos-Slynt,Janos Slynt
+Jeor-Mormont,Jeor Mormont
+Jon-Snow,Jon Snow
+Maekar-I-Targaryen,Maekar I Targaryen
+Mance-Rayder,Mance Rayder
+Owen,Owen
+Pypar,Pypar
+Robert-Baratheon,Robert Baratheon
+Samwell-Tarly,Samwell Tarly
+Wynton-Stout,Wynton Stout
+Arya-Stark,Arya Stark
+Hosteen-Frey,Hosteen Frey
+Theon-Greyjoy,Theon Greyjoy
+Wyman-Manderly,Wyman Manderly
+Asha-Greyjoy,Asha Greyjoy
+Baelor-Blacktyde,Baelor Blacktyde
+Balon-Greyjoy,Balon Greyjoy
+Dagmer,Dagmer
+Dunstan-Drumm,Dunstan Drumm
+Emmond,Emmond
+Euron-Greyjoy,Euron Greyjoy
+Gormond-Goodbrother,Gormond Goodbrother
+Gorold-Goodbrother,Gorold Goodbrother
+Greydon-Goodbrother,Greydon Goodbrother
+Meldred-Merlyn,Meldred Merlyn
+Murenmure,Murenmure
+Rus,Rus
+Victarion-Greyjoy,Victarion Greyjoy
+Arthur-Dayne,Arthur Dayne
+Barristan-Selmy,Barristan Selmy
+Brandon-Stark,Brandon Stark
+Brienne-of-Tarth,Brienne of Tarth
+Denys-Darklyn,Denys Darklyn
+Elbert-Arryn,Elbert Arryn
+Gerold-Hightower,Gerold Hightower
+Jon-Arryn,Jon Arryn
+Owen-Merryweather,Owen Merryweather
+Rossart,Rossart
+Gariss,Gariss
+Gelmarr,Gelmarr
+Gynir,Gynir
+Ramsay-Snow,Ramsay Snow
+Belwas,Belwas
+Daario-Naharis,Daario Naharis
+Drogo,Drogo
+Grey-Worm,Grey Worm
+Jhogo,Jhogo
+Jorah-Mormont,Jorah Mormont
+Quaro,Quaro
+Rakharo,Rakharo
+Bronn,Bronn
+Dancy,Dancy
+Halder,Halder
+Rast,Rast
+Bran-Stark,Bran Stark
+Hayhead,Hayhead
+Jojen-Reed,Jojen Reed
+Mikken,Mikken
+Mace-Tyrell,Mace Tyrell
+Margaery-Tyrell,Margaery Tyrell
+Axell-Florent,Axell Florent
+Cortnay-Penrose,Cortnay Penrose
+Davos-Seaworth,Davos Seaworth
+Lamprey,Lamprey
+Renly-Baratheon,Renly Baratheon
+Selyse-Florent,Selyse Florent
+Elinor-Tyrell,Elinor Tyrell
+Megga-Tyrell,Megga Tyrell
+Osney-Kettleblack,Osney Kettleblack
+Sansa-Stark,Sansa Stark
+Marya-Seaworth,Marya Seaworth
+Armen,Armen
+Leo-Tyrell,Leo Tyrell
+Marwyn,Marwyn
+Mollander,Mollander
+Pate-(novice),Pate (novice)
+Roone,Roone
+Qhorin-Halfhand,Qhorin Halfhand
+Harwin,Harwin
+Jory-Cassel,Jory Cassel
+Tomard,Tomard
+Elys-Waynwood,Elys Waynwood
+Melisandre,Melisandre
+Sigorn,Sigorn
+Justin-Massey,Justin Massey
+Harra,Harra
+Lancel-Lannister,Lancel Lannister
+Chiswyck,Chiswyck
+Dunsen,Dunsen
+Gendry,Gendry
+Gregor-Clegane,Gregor Clegane
+Hot-Pie,Hot Pie
+Ilyn-Payne,Ilyn Payne
+Meryn-Trant,Meryn Trant
+Polliver,Polliver
+Rafford,Rafford
+Roose-Bolton,Roose Bolton
+Sandor-Clegane,Sandor Clegane
+Tickler,Tickler
+Vargo-Hoat,Vargo Hoat
+Yoren,Yoren
+Quentyn-Martell,Quentyn Martell
+Edric-Storm,Edric Storm
+Gerald-Gower,Gerald Gower
+Arianne-Martell,Arianne Martell
+Garin-(orphan),Garin (orphan)
+Myrcella-Baratheon,Myrcella Baratheon
+Sylva-Santagar,Sylva Santagar
+Tyene-Sand,Tyene Sand
+Beric-Dondarrion,Beric Dondarrion
+Greenbeard,Greenbeard
+Husband,Husband
+Lem,Lem
+Sharna,Sharna
+Tom-of-Sevenstreams,Tom of Sevenstreams
+Benedar-Belmore,Benedar Belmore
+Gilwood-Hunter,Gilwood Hunter
+Harrold-Hardyng,Harrold Hardyng
+Horton-Redfort,Horton Redfort
+Petyr-Baelish,Petyr Baelish
+Symond-Templeton,Symond Templeton
+Yohn-Royce,Yohn Royce
+Cletus-Yronwood,Cletus Yronwood
+Gerris-Drinkwater,Gerris Drinkwater
+Tattered-Prince,Tattered Prince
+Monford-Velaryon,Monford Velaryon
+Arys-Oakheart,Arys Oakheart
+Balon-Swann,Balon Swann
+Caleotte,Caleotte
+Doran-Martell,Doran Martell
+Ellaria-Sand,Ellaria Sand
+Obara-Sand,Obara Sand
+Cedra,Cedra
+Franklyn-Fowler,Franklyn Fowler
+Gerold-Dayne,Gerold Dayne
+Mellei,Mellei
+Morra,Morra
+Ricasso,Ricasso
+Timoth,Timoth
+Arthor-Karstark,Arthor Karstark
+Mors-Umber,Mors Umber
+Rickard-Karstark,Rickard Karstark
+Emrick,Emrick
+Hareth-(Moles-Town),Hareth (Moles Town)
+Satin,Satin
+Illyrio-Mopatis,Illyrio Mopatis
+Jhiqui,Jhiqui
+Kraznys-mo-Nakloz,Kraznys mo Nakloz
+Mero,Mero
+Lewyn-Martell,Lewyn Martell
+Smiling-Knight,Smiling Knight
+Randyll-Tarly,Randyll Tarly
+Bellegere-Otherys,Bellegere Otherys
+Benjen-Stark,Benjen Stark
+Biter,Biter
+Brea,Brea
+Brusco,Brusco
+Denyo-Terys,Denyo Terys
+Desmond,Desmond
+Dobber,Dobber
+Elmar-Frey,Elmar Frey
+Jaqen-Hghar,Jaqen Hghar
+Jeyne-Poole,Jeyne Poole
+Kindly-Man,Kindly Man
+Koss,Koss
+Lommy-Greenhands,Lommy Greenhands
+Mad-Huntsman,Mad Huntsman
+Meralyn,Meralyn
+Mordane,Mordane
+Mycah,Mycah
+Pate-(Old),Pate (Old)
+Praed,Praed
+Ravella-Swann,Ravella Swann
+Rickon-Stark,Rickon Stark
+Rodrik-Cassel,Rodrik Cassel
+Rorge,Rorge
+Syrio-Forel,Syrio Forel
+Talea,Talea
+Ternesio-Terys,Ternesio Terys
+Thoros-of-Myr,Thoros of Myr
+Tommen-Baratheon,Tommen Baratheon
+Umma,Umma
+Vayon-Poole,Vayon Poole
+Waif,Waif
+Weasel,Weasel
+Weese,Weese
+Woth,Woth
+Yorko-Terys,Yorko Terys
+Clayton-Suggs,Clayton Suggs
+Galbart-Glover,Galbart Glover
+Godry-Farring,Godry Farring
+Grimtongue,Grimtongue
+Hagen,Hagen
+Qarl-the-Maid,Qarl the Maid
+Red-Oarsman,Red Oarsman
+Rodrik-Harlaw,Rodrik Harlaw
+Rolfe-the-Dwarf,Rolfe the Dwarf
+Sybelle-Glover,Sybelle Glover
+Torgon-Greyiron,Torgon Greyiron
+Tristifer-Botley,Tristifer Botley
+Tycho-Nestoris,Tycho Nestoris
+Wex-Pyke,Wex Pyke
+Harys-Swyft,Harys Swyft
+Loras-Tyrell,Loras Tyrell
+Orton-Merryweather,Orton Merryweather
+Paxter-Redwyne,Paxter Redwyne
+Porridge,Porridge
+Salladhor-Saan,Salladhor Saan
+Shireen-Baratheon,Shireen Baratheon
+Ygritte,Ygritte
+Frenken,Frenken
+Podrick-Payne,Podrick Payne
+Falyse-Stokeworth,Falyse Stokeworth
+Boros-Blount,Boros Blount
+Mandon-Moore,Mandon Moore
+Osmund-Kettleblack,Osmund Kettleblack
+Dywen,Dywen
+Roger-Ryswell,Roger Ryswell
+Ben-Plumm,Ben Plumm
+Bloodbeard,Bloodbeard
+Galazza-Galare,Galazza Galare
+Grazhar,Grazhar
+Groleo,Groleo
+Hizdahr-zo-Loraq,Hizdahr zo Loraq
+Khrazz,Khrazz
+Larraq,Larraq
+Missandei,Missandei
+Pycelle,Pycelle
+Reznak-mo-Reznak,Reznak mo Reznak
+Skahaz-mo-Kandaq,Skahaz mo Kandaq
+Steelskin,Steelskin
+Widower,Widower
+Xaro-Xhoan-Daxos,Xaro Xhoan Daxos
+Craster,Craster
+Goghor-the-Giant,Goghor the Giant
+Irri,Irri
+Spotted-Cat,Spotted Cat
+Oznak-zo-Pahl,Oznak zo Pahl
+Kasporio,Kasporio
+Penny,Penny
+Tybero-Istarion,Tybero Istarion
+Moqorro,Moqorro
+Narbert-Grandison,Narbert Grandison
+Helman-Tallhart,Helman Tallhart
+Leobald-Tallhart,Leobald Tallhart
+Stygg,Stygg
+Jaremy-Rykker,Jaremy Rykker
+Luwin,Luwin
+Waymar-Royce,Waymar Royce
+Jack-Bulwer,Jack Bulwer
+Mariya-Darry,Mariya Darry
+Lambert-Turnberry,Lambert Turnberry
+Qyburn,Qyburn
+Tallad,Tallad
+Tanda-Stokeworth,Tanda Stokeworth
+Cellador,Cellador
+Othell-Yarwyck,Othell Yarwyck
+Tormund,Tormund
+Wick-Whittlestick,Wick Whittlestick
+Brynden-Rivers,Brynden Rivers
+Chayle,Chayle
+Cley-Cerwyn,Cley Cerwyn
+Coldhands,Coldhands
+Donella-Hornwood,Donella Hornwood
+Hali,Hali
+Hallis-Mollen,Hallis Mollen
+Hodor,Hodor
+Howland-Reed,Howland Reed
+Hullen,Hullen
+Jon-Umber-(Greatjon),Jon Umber (Greatjon)
+Joseth,Joseth
+Leaf,Leaf
+Meera-Reed,Meera Reed
+Osha,Osha
+Poxy-Tym,Poxy Tym
+Reek,Reek
+Rickard-Stark,Rickard Stark
+Stafford-Lannister,Stafford Lannister
+Stiv,Stiv
+Walder-Frey-(son-of-Jammos),Walder Frey (son of Jammos)
+Walder-Frey-(son-of-Merrett),Walder Frey (son of Merrett)
+Torghen-Flint,Torghen Flint
+Lyanna-Stark,Lyanna Stark
+Shae,Shae
+Clarence-Crabb,Clarence Crabb
+Cleos-Frey,Cleos Frey
+Creighton-Longbough,Creighton Longbough
+Dick-Crabb,Dick Crabb
+Dontos-Hollard,Dontos Hollard
+Edmure-Tully,Edmure Tully
+Elder-Brother,Elder Brother
+Emmon-Cuy,Emmon Cuy
+Hyle-Hunt,Hyle Hunt
+Illifer,Illifer
+Jeyne-Heddle,Jeyne Heddle
+Lysa-Arryn,Lysa Arryn
+Meribald,Meribald
+Narbert,Narbert
+Pyg,Pyg
+Robar-Royce,Robar Royce
+Selwyn-Tarth,Selwyn Tarth
+Shagwell,Shagwell
+Timeon,Timeon
+Vyman,Vyman
+Walton,Walton
+Willow-Heddle,Willow Heddle
+Chiggen,Chiggen
+Jacelyn-Bywater,Jacelyn Bywater
+Lollys-Stokeworth,Lollys Stokeworth
+Marillion,Marillion
+Shagga,Shagga
+Timett,Timett
+Vardis-Egen,Vardis Egen
+Willis-Wode,Willis Wode
+Malegorn,Malegorn
+Eldon-Estermont,Eldon Estermont
+Guyard-Morrigen,Guyard Morrigen
+Daven-Lannister,Daven Lannister
+Edwyn-Frey,Edwyn Frey
+Emmon-Frey,Emmon Frey
+Hoster-Tully,Hoster Tully
+Nestor-Royce,Nestor Royce
+Ryman-Frey,Ryman Frey
+Varamyr,Varamyr
+Olenna-Redwyne,Olenna Redwyne
+Lucifer-Long,Lucifer Long
+Meris,Meris
+Colemon,Colemon
+Colen-of-Greenpools,Colen of Greenpools
+Dacey-Mormont,Dacey Mormont
+Desmond-Grell,Desmond Grell
+Donnel-Waynwood,Donnel Waynwood
+Eon-Hunter,Eon Hunter
+Jason-Mallister,Jason Mallister
+Jeyne-Westerling,Jeyne Westerling
+Lothar-Frey,Lothar Frey
+Maege-Mormont,Maege Mormont
+Marq-Piper,Marq Piper
+Masha-Heddle,Masha Heddle
+Mathis-Rowan,Mathis Rowan
+Moreo-Tumitis,Moreo Tumitis
+Mya-Stone,Mya Stone
+Mychel-Redfort,Mychel Redfort
+Raynald-Westerling,Raynald Westerling
+Robert-Arryn,Robert Arryn
+Robin-Ryger,Robin Ryger
+Roslin-Frey,Roslin Frey
+Tansy,Tansy
+Tytos-Blackwood,Tytos Blackwood
+Utherydes-Wayn,Utherydes Wayn
+Wendel-Manderly,Wendel Manderly
+Dorcas,Dorcas
+Garlan-Tyrell,Garlan Tyrell
+Garth-Tyrell,Garth Tyrell
+High-Septon-(Tyrions),High Septon (Tyrions)
+High-Sparrow,High Sparrow
+Jocelyn-Swyft,Jocelyn Swyft
+Maegor-I-Targaryen,Maegor I Targaryen
+Maggy,Maggy
+Mark-Mullendore,Mark Mullendore
+Melara-Hetherspoon,Melara Hetherspoon
+Moelle,Moelle
+Moon-Boy,Moon Boy
+Osfryd-Kettleblack,Osfryd Kettleblack
+Preston-Greenfield,Preston Greenfield
+Raynard,Raynard
+Robert-Strong,Robert Strong
+Scolera,Scolera
+Senelle,Senelle
+Taena-of-Myr,Taena of Myr
+Unella,Unella
+Vylarr,Vylarr
+Willas-Tyrell,Willas Tyrell
+Lark,Lark
+Small-Paul,Small Paul
+Karyl-Vance,Karyl Vance
+Ghael,Ghael
+Kedry,Kedry
+Mully,Mully
+Haggo,Haggo
+Qotho,Qotho
+Gretchel,Gretchel
+Maddy,Maddy
+Coratt,Coratt
+Dirk,Dirk
+Thoren-Smallwood,Thoren Smallwood
+Shadrich,Shadrich
+Patchface,Patchface
+Pylos,Pylos
+Kurz,Kurz
+Tarber,Tarber
+Hero,Hero
+Prendahl-na-Ghezn,Prendahl na Ghezn
+Sallor,Sallor
+Doreah,Doreah
+Eroeh,Eroeh
+Ezzara,Ezzara
+Lynesse-Hightower,Lynesse Hightower
+Lysono-Maar,Lysono Maar
+Marselen,Marselen
+Mezzara,Mezzara
+Miklaz,Miklaz
+Mirri-Maz-Duur,Mirri Maz Duur
+Pono,Pono
+Pyat-Pree,Pyat Pree
+Qavo-Nogarys,Qavo Nogarys
+Qezza,Qezza
+Quaithe,Quaithe
+Rhaegel-Targaryen,Rhaegel Targaryen
+Symon-Stripeback,Symon Stripeback
+Yurkhaz-zo-Yunzak,Yurkhaz zo Yunzak
+Ebben,Ebben
+Val,Val
+Grunt,Grunt
+Skinner,Skinner
+Sour-Alyn,Sour Alyn
+Jared-Frey,Jared Frey
+Lanna-(Happy-Port),Lanna (Happy Port)
+Torrhen-Karstark,Torrhen Karstark
+Devan-Seaworth,Devan Seaworth
+Garth-(Wolfs-Den),Garth (Wolfs Den)
+Godric-Borrell,Godric Borrell
+Guncer-Sunglass,Guncer Sunglass
+Imry-Florent,Imry Florent
+Khorane-Sathmantes,Khorane Sathmantes
+Leona-Woolfield,Leona Woolfield
+Marlon-Manderly,Marlon Manderly
+Matthos-Seaworth,Matthos Seaworth
+Robett-Glover,Robett Glover
+Sybell-Spicer,Sybell Spicer
+Eustace-Brune,Eustace Brune
+Hugh-Hungerford,Hugh Hungerford
+Mag-Mar-Tun-Doh-Weg,Mag Mar Tun Doh Weg
+Lothor-Brune,Lothor Brune
+Nymeria-Sand,Nymeria Sand
+Squint,Squint
+Jommo,Jommo
+Ogo,Ogo
+Rhaego,Rhaego
+Stonesnake,Stonesnake
+High-Septon-(fat_one),High Septon (fat_one)
+Jacks,Jacks
+Joss,Joss
+Maron-Greyjoy,Maron Greyjoy
+Porther,Porther
+Raymun-Darry,Raymun Darry
+Tobho-Mott,Tobho Mott
+Tregar,Tregar
+Varly,Varly
+Willam-Dustin,Willam Dustin
+Wyl-(guard),Wyl (guard)
+Wylla,Wylla
+Emmett,Emmett
+Watt,Watt
+Forley-Prester,Forley Prester
+Walder-Rivers,Walder Rivers
+Steffon-Varner,Steffon Varner
+Hop-Robin,Hop Robin
+Genna-Lannister,Genna Lannister
+Grigg,Grigg
+Styr,Styr
+Hotho-Harlaw,Hotho Harlaw
+Humfrey-Hewett,Humfrey Hewett
+Nute,Nute
+Quellon-Greyjoy,Quellon Greyjoy
+Sawane-Botley,Sawane Botley
+Jonquil,Jonquil
+Holly,Holly
+Will-(prologue),Will (prologue)
+Murch,Murch
+Leonette-Fossoway,Leonette Fossoway
+Hairy-Hal,Hairy Hal
+Gorne,Gorne
+Merrit,Merrit
+Terrance-Lynderly,Terrance Lynderly
+Oswell-Whent,Oswell Whent
+Raymun-Redbeard,Raymun Redbeard
+Kojja-Mo,Kojja Mo
+Walgrave,Walgrave
+Kegs,Kegs
+Todder,Todder
+Jarl,Jarl
+Lorren,Lorren
+Leathers,Leathers
+Rory,Rory
+Spare-Boot,Spare Boot
+Rattleshirt,Rattleshirt
+Weeper,Weeper
+Myles-Toyne,Myles Toyne
+Marghaz-zo-Loraq,Marghaz zo Loraq
+Horas-Redwyne,Horas Redwyne
+Rowan,Rowan
+Mebble,Mebble
+Sigfryd-Harlaw,Sigfryd Harlaw
+Jonos-Bracken,Jonos Bracken
+Josmyn-Peckledon,Josmyn Peckledon
+Joy-Hill,Joy Hill
+Lewys-Piper,Lewys Piper
+Pia,Pia
+Rennifer-Longwaters,Rennifer Longwaters
+Ronnet-Connington,Ronnet Connington
+Shitmouth,Shitmouth
+Tysha,Tysha
+Urswyck,Urswyck
+Wylis-Manderly,Wylis Manderly
+Zollo,Zollo
+Rhaegar-Frey,Rhaegar Frey
+Ottyn-Wythers,Ottyn Wythers
+Squirrel,Squirrel
+Nyessos-Vhassar,Nyessos Vhassar
+Matthar,Matthar
+Orell,Orell
+Othor,Othor
+Patrek-of-Kings-Mountain,Patrek of Kings Mountain
+Ryk,Ryk
+Soren-Shieldbreaker,Soren Shieldbreaker
+Tom-Barleycorn,Tom Barleycorn
+Toregg,Toregg
+Ulmer,Ulmer
+Wun-Weg-Wun-Dar-Wun,Wun Weg Wun Dar Wun
+Zei,Zei
+Jon-Umber-(Smalljon),Jon Umber (Smalljon)
+Robin-Flint,Robin Flint
+Nurse,Nurse
+Richard-Horpe,Richard Horpe
+Morrec,Morrec
+Willem-Lannister,Willem Lannister
+Softfoot,Softfoot
+Symon-Silver-Tongue,Symon Silver Tongue
+Urzen,Urzen
+Merrett-Frey,Merrett Frey
+Torwold-Browntooth,Torwold Browntooth
+Lyonel-Corbray,Lyonel Corbray
+Rodrik-Sparr,Rodrik Sparr
+Myranda-Royce,Myranda Royce
+Trystane-Martell,Trystane Martell
+Yezzan-zo-Qaggaz,Yezzan zo Qaggaz
+Ralf-Stonehouse,Ralf Stonehouse
+Quill,Quill
+Rosey,Rosey
+Sweets,Sweets
+Shortear,Shortear
+Ragwyle,Ragwyle
+Xhondo,Xhondo
+Yellow-Dick,Yellow Dick
+Rollam-Westerling,Rollam Westerling
+Torbert,Torbert
+Steffon-Baratheon,Steffon Baratheon
+Rugen,Rugen
+Rhaella-Targaryen,Rhaella Targaryen
+Rolph-Spicer,Rolph Spicer
+Tristifer-IV-Mudd,Tristifer IV Mudd
+Walda-Frey-(daughter-of-Merrett),Walda Frey (daughter of Merrett)
+Theobald,Theobald
+Ulf-son-of-Umar,Ulf son of Umar
+Theomore,Theomore
+William-Foxglove,William Foxglove
+Werlag,Werlag
+Willow-Witch-eye,Willow Witch eye
+Wulfe,Wulfe
